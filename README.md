@@ -1,35 +1,43 @@
-<h1>Hi, I'm Kevin! 
+<h1 align="center">Hi, I'm Kevin Van 👋</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<p align="center">
+James Madison University Graduate | CompTIA Security+ Certified | Aspiring Cybersecurity Professional
+</p>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+## 👨‍💻 About Me
 
+I am a graduate of James Madison University with a Bachelor of Business Administration in Computer Information Systems and a concentration in Information and Cybersecurity Management.
 
-<h2>📄 Certifications</h2>
+Through academic coursework and hands-on projects, I developed a strong foundation in cybersecurity, networking, information systems, and data management while gaining experience with Python and SQL.
 
-  - [CompTIA Security+](https://cp.certmetrics.com/comptia/en/public/verify/credential/6ab63d9ebbbc48549826fa59107e1bb7)
-
-<h2> 🤳 LinkedIn:</h2>
-
-
-
-[<img align="left" alt="KevinVan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+I am currently seeking a full-time opportunity in cybersecurity, IT, or consulting where I can apply my technical skills, problem-solving abilities, and passion for technology while continuing to grow as a professional.
 
 
+## 🔐 Cybersecurity Projects
+
+- [Active Directory Home Lab](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
+- Add future cybersecurity projects here
+- SOC Lab
+- Vulnerability Assessment Lab
+- SIEM Monitoring Lab
+
+## 📄 Certifications
+
+- [CompTIA Security+](https://cp.certmetrics.com/comptia/en/public/verify/credential/6ab63d9ebbbc48549826fa59107e1bb7)
+
+## 🎯 Career Interests
+
+- Cybersecurity Analyst
+- SOC Analyst
+- Information Security Analyst
+- IT Support Specialist
+- Cybersecurity Consultant
+- Risk & Compliance Analyst
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="Kevin Van | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 [linkedin]: https://www.linkedin.com/in/kevin-van-646422268/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
