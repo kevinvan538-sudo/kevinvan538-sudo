@@ -34,10 +34,8 @@ I am currently seeking a full-time opportunity in cybersecurity, IT, or consulti
 - Cybersecurity Consultant
 - Risk & Compliance Analyst
 
-## 🤳 Connect With Me
+## 📫 Contact Me
 
-[<img align="left" alt="Kevin Van | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+📧 **Email:** [kevinvan538@gmail.com](mailto:kevinvan538@gmail.com)
 
-<br />
-
-[linkedin]: https://www.linkedin.com/in/kevin-van-646422268/
+💼 **LinkedIn:** [Kevin Van](https://www.linkedin.com/in/kevin-van-646422268/)
