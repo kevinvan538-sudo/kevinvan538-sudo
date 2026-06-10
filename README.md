@@ -13,7 +13,7 @@ Through academic coursework and hands-on projects, I developed a strong foundati
 I am currently seeking a full-time opportunity in cybersecurity, IT, or consulting where I can apply my technical skills, problem-solving abilities, and passion for technology while continuing to grow as a professional.
 
 
-## 🔐 Cybersecurity Projects
+## 💻 Projects
 
 - [Active Directory Home Lab](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
 - Add future cybersecurity projects here
